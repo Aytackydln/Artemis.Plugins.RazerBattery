@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="ArtemisRGB.UI.Shared" IncludeAssets="compile;build;buildTransitive" Version="1.2024.303.4" />
+        <PackageReference Include="LibUsbDotNet" Version="3.0.102-alpha" />
     </ItemGroup>
 
     <ItemGroup>
